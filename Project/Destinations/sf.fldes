@@ -12,4 +12,6 @@
   OptimizeUpload="false"
   ChangedOnly="true"
   ArticleType="Albert__kav"
-  RecordType="0121N000000oEvgQAE"></CatapultDestination>
+  RecordType="0121N000000oEvgQAE"
+  ArticleContentField="RichText__c"
+  DestinationId="V20PDrTNYkO1Pz0S3vw9rA"></CatapultDestination>
