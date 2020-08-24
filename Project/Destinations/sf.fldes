@@ -10,7 +10,7 @@
   ViewUrl="http://www.madcapsoftware.com/"
   Type="salesforce"
   OptimizeUpload="false"
-  ChangedOnly="true"
+  ChangedOnly="false"
   ArticleType="Albert__kav"
   RecordType="0121N000000oEvgQAE"
   ArticleContentField="RichText__c"
