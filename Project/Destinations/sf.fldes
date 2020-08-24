@@ -8,4 +8,6 @@
   Directory="services/oauth2/authorize"
   Port=""
   ViewUrl="http://www.madcapsoftware.com/"
-  Type="salesforce"></CatapultDestination>
+  Type="salesforce"
+  ArticleType="Albert__kav"
+  RecordType="0121N000000oEvgQAE"></CatapultDestination>
